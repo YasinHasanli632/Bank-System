@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\bin\Debug\net8.0\TransactionService.Domain.deps.json
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\bin\Debug\net8.0\TransactionService.Domain.runtimeconfig.json
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\bin\Debug\net8.0\TransactionService.Domain.dll
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\bin\Debug\net8.0\TransactionService.Domain.pdb
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.dll
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\refint\TransactionService.Domain.dll
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.pdb
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\TransactionService.Domain.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Bank\TransactionService.Domain\obj\Debug\net8.0\ref\TransactionService.Domain.dll

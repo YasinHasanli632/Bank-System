@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\bin\Debug\net8.0\AccountService.Domain.deps.json
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\bin\Debug\net8.0\AccountService.Domain.runtimeconfig.json
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\bin\Debug\net8.0\AccountService.Domain.dll
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\bin\Debug\net8.0\AccountService.Domain.pdb
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.dll
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\refint\AccountService.Domain.dll
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.pdb
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\ref\AccountService.Domain.dll
+C:\Users\Asus\source\repos\Bank\AccountService.Domain\obj\Debug\net8.0\AccountService.Domain.csproj.AssemblyReference.cache

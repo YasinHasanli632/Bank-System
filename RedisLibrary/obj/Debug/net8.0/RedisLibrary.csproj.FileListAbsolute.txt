@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Bank\RedisLibrary\bin\Debug\net8.0\RedisLibrary.deps.json
+C:\Users\Asus\source\repos\Bank\RedisLibrary\bin\Debug\net8.0\RedisLibrary.dll
+C:\Users\Asus\source\repos\Bank\RedisLibrary\bin\Debug\net8.0\RedisLibrary.pdb
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\RedisLibrary.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\RedisLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\RedisLibrary.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\RedisLibrary.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\RedisLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\RedisLibrary.dll
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\refint\RedisLibrary.dll
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\RedisLibrary.pdb
+C:\Users\Asus\source\repos\Bank\RedisLibrary\obj\Debug\net8.0\ref\RedisLibrary.dll

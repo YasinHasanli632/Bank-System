@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\bin\Debug\net8.0\DocumentService.Infrastructure.deps.json
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\bin\Debug\net8.0\DocumentService.Infrastructure.runtimeconfig.json
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\bin\Debug\net8.0\DocumentService.Infrastructure.dll
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\bin\Debug\net8.0\DocumentService.Infrastructure.pdb
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\bin\Debug\net8.0\DocumentService.Domain.dll
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\bin\Debug\net8.0\DocumentService.Domain.pdb
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\Document.C3081AC9.Up2Date
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.dll
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\refint\DocumentService.Infrastructure.dll
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.pdb
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\DocumentService.Infrastructure.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Bank\DocumentService.Infrastructure\obj\Debug\net8.0\ref\DocumentService.Infrastructure.dll

@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C8CC74-EB9B-4425-BD31-61466C87E6AB}|TransactionService.Application\\TransactionService.Application.csproj|c:\\users\\asus\\source\\repos\\bank\\transactionservice.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C8CC74-EB9B-4425-BD31-61466C87E6AB}|TransactionService.Application\\TransactionService.Application.csproj|solutionrelative:transactionservice.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4938151-14E2-4AC0-8F87-AD67CA238259}|TransactionService.Domain\\TransactionService.Domain.csproj|c:\\users\\asus\\source\\repos\\bank\\transactionservice.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4938151-14E2-4AC0-8F87-AD67CA238259}|TransactionService.Domain\\TransactionService.Domain.csproj|solutionrelative:transactionservice.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA5C992-947A-45A4-B492-AB42AEB1BAE8}|TransactionService.API\\TransactionService.API.csproj|c:\\users\\asus\\source\\repos\\bank\\transactionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA5C992-947A-45A4-B492-AB42AEB1BAE8}|TransactionService.API\\TransactionService.API.csproj|solutionrelative:transactionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD57357-53E3-4052-AEB4-856F220643C2}|DocumentService.API\\DocumentService.API.csproj|c:\\users\\asus\\source\\repos\\bank\\documentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD57357-53E3-4052-AEB4-856F220643C2}|DocumentService.API\\DocumentService.API.csproj|solutionrelative:documentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B926FDD-E2B1-4F73-9955-6DAB79007F92}|CustomerService.API\\CustomerService.API.csproj|c:\\users\\asus\\source\\repos\\bank\\customerservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B926FDD-E2B1-4F73-9955-6DAB79007F92}|CustomerService.API\\CustomerService.API.csproj|solutionrelative:customerservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB933D8-4459-4D1E-BD04-7A6EE3B7C672}|AccountService.API\\AccountService.API.csproj|c:\\users\\asus\\source\\repos\\bank\\accountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB933D8-4459-4D1E-BD04-7A6EE3B7C672}|AccountService.API\\AccountService.API.csproj|solutionrelative:accountservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F157A1-E3AB-468E-9B89-F16A2C6C5756}|FileStorageService.API\\FileStorageService.API.csproj|c:\\users\\asus\\source\\repos\\bank\\filestorageservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F157A1-E3AB-468E-9B89-F16A2C6C5756}|FileStorageService.API\\FileStorageService.API.csproj|solutionrelative:filestorageservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Bank\\TransactionService.API\\Program.cs",
+              "RelativeDocumentMoniker": "TransactionService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Bank\\TransactionService.API\\Program.cs",
+              "RelativeToolTip": "TransactionService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:28:30.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Bank\\DocumentService.API\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Bank\\DocumentService.API\\Program.cs",
+              "RelativeToolTip": "DocumentService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:32:07.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Bank\\CustomerService.API\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Bank\\CustomerService.API\\Program.cs",
+              "RelativeToolTip": "CustomerService.API\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:33:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Bank\\AccountService.API\\Program.cs",
+              "RelativeDocumentMoniker": "AccountService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Bank\\AccountService.API\\Program.cs",
+              "RelativeToolTip": "AccountService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:38:40.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Bank\\FileStorageService.API\\Program.cs",
+              "RelativeDocumentMoniker": "FileStorageService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Bank\\FileStorageService.API\\Program.cs",
+              "RelativeToolTip": "FileStorageService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:10:58.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Bank\\TransactionService.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "TransactionService.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Bank\\TransactionService.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "TransactionService.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:06:21.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Bank\\TransactionService.Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "TransactionService.Application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Bank\\TransactionService.Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "TransactionService.Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:06:58.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
